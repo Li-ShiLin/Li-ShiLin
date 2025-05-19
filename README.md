@@ -1,10 +1,11 @@
 <p align="center"> 
 <a href="https://github.com/AZCodingAccount" target="_blank"><img  align=center src="https://img.shields.io/badge/Blog-CSDN博客-%23ff6c16?style=flat"/></a>
 <a href="https://leetcode.cn/u/li-shi-lin-5" target="_blank"><img  align=center src="https://img.shields.io/badge/LeetCode-力扣-%23f2c15b?style=flat"/></a>
-<a href="https://github.com/AZCodingAccount" target="_blank"><img  align=center src="https://img.shields.io/badge/lougu-洛谷-%2316cdff?style=flat"/></a>
+<a href="https://www.luogu.com.cn/user/11018" target="_blank"><img  align=center src="https://img.shields.io/badge/lougu-洛谷-%2316cdff?style=flat"/></a>
 <a href="https://codeforces.com/profile/tulin" target="_blank"><img  align=center src="https://img.shields.io/badge/cf-codeforces-%23ff167b?style=flat"/></a>
 <a href="https://space.bilibili.com/177286595" target="_blank"><img  align=center src="https://img.shields.io/badge/Bilibili-B站-%235bc8f2?style=flat"/></a>
 </p>
+
 
 
 
