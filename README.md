@@ -7,7 +7,18 @@
 </p>
 
 
+## 全景导航 🗺️
 
+> 目前仓库主要用于维护学习过程中整理的技术笔记、核心内容如下
+
+- 核心基础：[Linux](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/blob/master/Linux/Linux)、[设计模式](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/design-pattern)、[函数式编程](https://github.com/Li-ShiLin/functional-programming-note)、[数据结构与算法刷题](https://blog.csdn.net/iamlsl/category_11635539.html?spm=1001.2014.3001.5482)
+
+- Java生态：[Java](https://blog.csdn.net/iamlsl/category_10861731.html)、[jvm](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/jvm)、[juc](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/juc_sgg)、[maven](https://github.com/Li-ShiLin/maven-notes)、[Spring](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/spring6)、[MyBatis](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/Mybatis)、[MyBatis-Plus](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/Mybatis-Plus)
+- 前端技术：[JavaScript](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/javascript)、[TypeScript](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/typescript)、[Vue](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/vue)
+- 数据存储：[MySQL](https://blog.csdn.net/iamlsl/category_11669043.html)、[elasticsearch](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/007_E-Commerce-Guide/008_gulimall)
+- 分布式中间件：[Redis](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/Redis)、[RabbitMQ](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/007_E-Commerce-Guide/011_gulimall)、[nacos](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/007_E-Commerce-Guide/002_gulimall)
+- 云原生：[Docker](https://github.com/Li-ShiLin/DevOps-Note/tree/main/docker_boot)、[kubernetes](https://github.com/Li-ShiLin/DevOps-Note/tree/main/kubernetes)
+- 项目笔记：[商城项目](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/007_E-Commerce-Guide)
 
 
 
@@ -52,22 +63,4 @@
   <a href=""><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" ></a>
   <a href=""><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" ></a>
 </p>
-
-
-## 全景导航 🗺️
-
-> 目前仓库主要用于维护学习过程中整理的技术笔记、核心内容如下
-
-- 核心基础：[Linux](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/blob/master/Linux/Linux)、[设计模式](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/design-pattern)、[函数式编程](https://github.com/Li-ShiLin/functional-programming-note)、[数据结构与算法刷题](https://blog.csdn.net/iamlsl/category_11635539.html?spm=1001.2014.3001.5482)
-
-- Java生态：[Java](https://blog.csdn.net/iamlsl/category_10861731.html)、[jvm](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/jvm)、[juc](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/juc_sgg)、[maven](https://github.com/Li-ShiLin/maven-notes)、[Spring](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/spring6)、[MyBatis](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/Mybatis)、[MyBatis-Plus](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/Mybatis-Plus)
-- 前端技术：[JavaScript](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/javascript)、[TypeScript](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/typescript)、[Vue](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/vue)
-- 数据存储：[MySQL](https://blog.csdn.net/iamlsl/category_11669043.html)、[elasticsearch](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/007_E-Commerce-Guide/008_gulimall)
-- 分布式中间件：[Redis](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/Redis)、[RabbitMQ](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/007_E-Commerce-Guide/011_gulimall)、[nacos](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/007_E-Commerce-Guide/002_gulimall)
-- 云原生：[Docker](https://github.com/Li-ShiLin/DevOps-Note/tree/main/docker_boot)、[kubernetes](https://github.com/Li-ShiLin/DevOps-Note/tree/main/kubernetes)
-- 项目笔记：[商城项目](https://github.com/Li-ShiLin/Programming-Learning-Notes-Code-Repository/tree/master/007_E-Commerce-Guide)
-
-
-
-
 
